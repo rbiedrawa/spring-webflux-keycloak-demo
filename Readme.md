@@ -1,6 +1,6 @@
 # Reactive Spring Security with OAuth2 and Keycloak (demo)
 
-This repository showcase how to use reactive Spring Security with OAuth2 and Keycloak.
+This repository demonstrates how to use reactive Spring Security with OAuth2 and Keycloak.
 
 Keycloak server with all components can be started using [docker-compose](./docker/docker-compose.yml) and [utility script](./docker/setupDemoRealm.sh).
 
