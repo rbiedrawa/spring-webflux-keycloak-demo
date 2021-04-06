@@ -2,7 +2,7 @@
 
 This repository contains reactive **resource server** application that integrates with Keycloak.
 
-Keycloak server with all necessary components can be started using [docker-compose](./docker/docker-compose.yml) and [utility script](./docker/setupDemoRealm.sh).
+Keycloak server with all components can be started using [docker-compose](./docker/docker-compose.yml) and [utility script](./docker/setupDemoRealm.sh).
 
 ## Features
 
