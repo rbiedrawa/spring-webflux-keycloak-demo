@@ -1,0 +1,22 @@
+{
+  "id" : "89169168-80ff-3e8b-880e-e03e3b74241e",
+  "request" : {
+    "url" : "/auth/realms/demo/.well-known/openid-configuration",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-auth-realms-demo-.well-known-openid-configuration-eLUHM.json",
+    "headers" : {
+      "Cache-Control" : "no-cache, must-revalidate, no-transform, no-store",
+      "X-XSS-Protection" : "1; mode=block",
+      "X-Frame-Options" : "SAMEORIGIN",
+      "Referrer-Policy" : "no-referrer",
+      "Date" : "Tue, 06 Apr 2021 15:36:29 GMT",
+      "Strict-Transport-Security" : "max-age=31536000; includeSubDomains",
+      "X-Content-Type-Options" : "nosniff",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "89169168-80ff-3e8b-880e-e03e3b74241e"
+}

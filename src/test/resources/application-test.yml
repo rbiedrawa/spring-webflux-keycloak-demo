@@ -1,0 +1,2 @@
+spring:
+  security.oauth2.resourceserver.jwt.issuer-uri: "http://localhost:${wiremock.server.port}/auth/realms/demo"
