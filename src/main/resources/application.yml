@@ -1,1 +1,12 @@
+server:
+  port: 8080
 
+app:
+  security:
+    clientId: "spring_keycloak_demo_client"
+
+spring:
+  security.oauth2.resourceserver.jwt.issuer-uri: "http://localhost:8081/auth/realms/demo"
+
+logging.level:
+  org.springframework.security: DEBUG
