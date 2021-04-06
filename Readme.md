@@ -1,6 +1,6 @@
-# Spring oauth2 webflux application integrated with Keycloak and Spring Security 5 (demo)
+# Reactive Spring Security with OAuth2 and Keycloak (demo)
 
-This repository contains reactive **resource server** application that integrates with Keycloak.
+This repository showcase how to use reactive Spring Security with OAuth2 and Keycloak.
 
 Keycloak server with all components can be started using [docker-compose](./docker/docker-compose.yml) and [utility script](./docker/setupDemoRealm.sh).
 
