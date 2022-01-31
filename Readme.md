@@ -16,11 +16,11 @@ Keycloak server with all components can be started using [docker-compose](./dock
 
 ## Getting Started
 
-### Prerequisite
+### Prerequisites
 
 * Java 11
 * Docker
-* Docker-Compose
+* Docker Compose
 
 ### Usage
 
